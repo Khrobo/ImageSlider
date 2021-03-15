@@ -1,1 +1,1 @@
-# ImageSlider
+Simple javascript imageslider project
